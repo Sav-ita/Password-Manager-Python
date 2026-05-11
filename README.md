@@ -50,3 +50,8 @@ notes
 - the pyperclip library requires xclip or xsel installed on linux to work:
 
     sudo dnf install xclip
+
+
+<video width="320" height="240" controls>
+  <source src="tut.mp4" type="video/mp4">
+</video>
