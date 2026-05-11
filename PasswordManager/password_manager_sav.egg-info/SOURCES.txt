@@ -1,9 +1,0 @@
-pyproject.toml
-password_manager/__init__.py
-password_manager/main.py
-password_manager_sav.egg-info/PKG-INFO
-password_manager_sav.egg-info/SOURCES.txt
-password_manager_sav.egg-info/dependency_links.txt
-password_manager_sav.egg-info/entry_points.txt
-password_manager_sav.egg-info/requires.txt
-password_manager_sav.egg-info/top_level.txt
