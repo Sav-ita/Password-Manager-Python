@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: password-manager-sav
+Version: 1.0.0
+Summary: Password manager locale cifrato
+Requires-Dist: customtkinter
+Requires-Dist: cryptography
+Requires-Dist: pyperclip
