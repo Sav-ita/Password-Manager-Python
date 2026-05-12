@@ -1,17 +1,22 @@
 [build-system]
-requires = ["setuptools>=68"]
+requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "password-manager-sav"
-version = "1.0.0"
-description = "Local encrypted password manager"
+name = "sav-password-manager"
+version = "0.1.0"
+description = "Python password manager"
 readme = "README.md"
-dependencies = [
-    "customtkinter",
-    "cryptography",
-    "pyperclip"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  { name = "Sav-ita" }
 ]
 
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/Sav-ita/Password-Manager-Python"
+
 [project.scripts]
-password-manager = "password_manager:main"
+password-manager = "main:main"
